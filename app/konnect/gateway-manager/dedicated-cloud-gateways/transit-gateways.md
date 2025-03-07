@@ -1,5 +1,5 @@
 ---
-title: How to configure Transit Gateway
+title: How to configure AWS Transit Gateway
 ---
 
 
